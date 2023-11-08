@@ -138,7 +138,7 @@ nav.fa{
     width:auto;
     text-align:center;
     padding:30px 0;
-    background-color:lightpink;''
+    background-color:lightgreen;
    
 }
 .footer h4{
